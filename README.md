@@ -1,8 +1,3 @@
-# python_tips
+# Phelps Tips
 
-1. To auto-export all packages(with version info) needed for a py file
-pip freeze > filename.txt
-
-And then auto install all these necessary packages with the right info
-pip install -r filename.txt
-
+**This repo is a collection of hacks, tips, and things we only found through a lot of digging, maybe it will save you time later.
