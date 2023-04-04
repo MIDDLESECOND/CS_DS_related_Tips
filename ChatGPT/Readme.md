@@ -8,3 +8,4 @@ To make sure we are as familiar with ChatGPT as possible, here are some resource
 4. **An OPEN-AI Engineer's Blog**: [https://lilianweng.github.io/posts/2023-03-15-prompt-engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
 5. **GPT Comparison Tool**: [https://gpttools.com/comparisontool](https://gpttools.com/comparisontool)
 6. **Current Phase Tech Report**[https://github.com/phelps-dunbar/tips/tree/main/ChatGPT/Docs](https://github.com/phelps-dunbar/tips/tree/main/ChatGPT/Docs)
+7. **an experimental open-source application showcasing the capabilities of the GPT-4 language model**[https://github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
