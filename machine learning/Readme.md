@@ -5,4 +5,4 @@ As we all know, we are heading more toward Machine Learning (Artificial Intellig
 1. **Google Tensorflow Certificates**: [https://developers.google.com/machine-learning](https://developers.google.com/machine-learning)
 2. **Coursera Machine Learning Courses**: [https://www.coursera.org/search?query=machine%20learning&skipBrowseRedirect=true](https://www.coursera.org/search?query=machine%20learning&skipBrowseRedirect=true)
 3. **Math for Machine Learning**: [https://mml-book.github.io/](https://mml-book.github.io/)
-4. **Hugging Face**: [https://huggingface.co/](https://huggingface.co/)
+4. **Hugging Face(NLP Resources)**: [https://huggingface.co/](https://huggingface.co/)
