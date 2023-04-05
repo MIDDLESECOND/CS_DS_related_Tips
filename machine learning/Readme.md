@@ -7,3 +7,4 @@ As we all know, we are heading more toward Machine Learning (Artificial Intellig
 3. **Math for Machine Learning**: [https://mml-book.github.io/](https://mml-book.github.io/)
 4. **Hugging Face(NLP Resources)**: [https://huggingface.co/](https://huggingface.co/)
 4. **Twitter Open Source Algorithm**(dude you gonna see this, kinda funny lol)[https://github.com/twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
+5. **Stanford Practical Machine Learning Course**: [https://c.d2l.ai/stanford-cs329p/](https://c.d2l.ai/stanford-cs329p/)
