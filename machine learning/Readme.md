@@ -6,3 +6,4 @@ As we all know, we are heading more toward Machine Learning (Artificial Intellig
 2. **Coursera Machine Learning Courses**: [https://www.coursera.org/search?query=machine%20learning&skipBrowseRedirect=true](https://www.coursera.org/search?query=machine%20learning&skipBrowseRedirect=true)
 3. **Math for Machine Learning**: [https://mml-book.github.io/](https://mml-book.github.io/)
 4. **Hugging Face(NLP Resources)**: [https://huggingface.co/](https://huggingface.co/)
+4. **Twitter Open Source Algorithm**(dude you gonna see this, kinda funny lol)[https://github.com/twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
