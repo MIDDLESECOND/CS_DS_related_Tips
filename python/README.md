@@ -1,6 +1,6 @@
 # python_tips
 
-1. To auto-export all packages (with version info) needed for a Python file: pip freeze > requirements.txt
+1. To auto-export all packages (with version info) needed for a Python file: pip freeze > requirements.txt</br>
    And then auto-install all these necessary packages with the right info: pip install -r requirements.txt
 
 2. In VS Code, use `shift + home` from the end of a line to select the entire row, and then use the up arrow and down arrow to select multiple lines.
