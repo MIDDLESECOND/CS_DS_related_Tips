@@ -20,8 +20,8 @@ Supplementary:
 
 
 
-Good Prompting Example:
+**Good Prompting Example**:
 
-Can you show me a minimal outline of streaming text from a python generator in django to a text box on the frontend using django and javascript? Please start with an outline then I will instruct you to continue to the code
+>Can you show me a minimal outline of streaming text from a python generator in django to a text box on the frontend using django and javascript? Please start with an outline then I will instruct you to continue to the code
 
 **Benefits**: it allows me to both understand the steps of involved to accomplish something and a minimal code example
