@@ -10,3 +10,9 @@ To make sure we are as familiar with ChatGPT as possible, here are some resource
 6. **Current Phase Tech Report**: [https://github.com/phelps-dunbar/tips/tree/main/ChatGPT/Docs](https://github.com/phelps-dunbar/tips/tree/main/ChatGPT/Docs)
 7. **an experimental open-source application showcasing the capabilities of the GPT-4 language model**: [https://github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 8. **Awesome ChatGPT API**(Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.):[https://github.com/reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
+
+
+
+
+Supplementary:
+1. **Destop ChatGPT**: [https://github.com/lencx/ChatGPT](https://github.com/lencx/ChatGPT)
