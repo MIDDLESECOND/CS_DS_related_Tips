@@ -11,4 +11,8 @@ pip install -r requirements.txt
 In VS Code, use `shift + home` from the end of a line to select the entire row, and then use the up arrow and down arrow to select multiple lines.
 
 ## Tip 3
-**Effective Tricks for Data Scientists in Python:** [https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
+**Effective Tricks for Data Scientists in Python**: [https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists](https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists)
+
+
+## Tip 4
+**freecodecamp**(almost every langauge taught free!): [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
