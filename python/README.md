@@ -15,4 +15,4 @@ In VS Code, use `shift + home` from the end of a line to select the entire row, 
 
 
 ## Tip 4
-**freecodecamp**(almost every langauge taught free!): [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
+**free code camp**(almost every langauge taught free!): [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
