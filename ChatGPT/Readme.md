@@ -11,6 +11,7 @@ To make sure we are as familiar with ChatGPT as possible, here are some resource
 7. **an experimental open-source application showcasing the capabilities of the GPT-4 language model**: [https://github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 8. **Awesome ChatGPT API**(Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.):[https://github.com/reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
 9. <b>Reverse Engineered ChatGPT API:bangbang:</b> : [https://github.com/acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
+10. **Break the Fire Wall:innocent:**: [https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
 <br>
 
 
