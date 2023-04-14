@@ -20,8 +20,8 @@ Supplementary:
 <br>
 
 GPT Alternatives:
-1. [nat.dev](nat.dev)
-2. [poe.com](poe.com)
+1. [https://nat.dev](https://nat.dev)
+2. [https://poe.com](https://poe.com)
 
 
 **Good Prompting Example**:
