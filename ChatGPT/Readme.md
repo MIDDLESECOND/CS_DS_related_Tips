@@ -19,6 +19,10 @@ Supplementary:
 1. **Destop ChatGPT**: [https://github.com/lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 <br>
 
+GPT Alternatives:
+1. [nat.dev](nat.dev)
+2. [poe.com](poe.com)
+
 
 **Good Prompting Example**:
 
