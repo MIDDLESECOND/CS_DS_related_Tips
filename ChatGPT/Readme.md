@@ -7,7 +7,7 @@ To make sure we are as familiar with ChatGPT as possible, here are some resource
 3. **OPEN-AI Discord Channel**: [https://discord.com/invite/openai](https://discord.com/invite/openai) (has some good prompt engineering info in sub channels)
 4. **An OPEN-AI Engineer's Blog**: [https://lilianweng.github.io/posts/2023-03-15-prompt-engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering)
 5. **GPT Comparison Tool**: [https://gpttools.com/comparisontool](https://gpttools.com/comparisontool)
-6. **Current Phase Tech Report**: [https://cdn.openai.com/papers/gpt-4](https://cdn.openai.com/papers/gpt-4)
+6. **Current Phase Tech Report**: [https://arxiv.org/abs/2303.08774](https://arxiv.org/abs/2303.08774)
 7. **an experimental open-source application showcasing the capabilities of the GPT-4 language model**: [https://github.com/Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 8. **Awesome ChatGPT API**(Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.):[https://github.com/reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)
 9. <b>Reverse Engineered ChatGPT API:bangbang:</b> : [https://github.com/acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
