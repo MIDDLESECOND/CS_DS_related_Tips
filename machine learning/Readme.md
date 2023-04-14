@@ -13,4 +13,4 @@ As we all know, we are heading more toward Machine Learning (Artificial Intellig
     - **Create Personalized ChatGPT**: [https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
     - **Another Large Chat Model**: [https://github.com/LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
     - **DataBricks' Dolly Model**: [https://github.com/databrickslabs/dolly](https://github.com/databrickslabs/dolly)
-7. **AI building PPT**: [https://beta.tome.app/](https://beta.tome.app/)
+7. **AI building PPT**: [https://beta.tome.app/](https://beta.tome.app/) (other option being asking GPT to write out the VBA Code)
